@@ -1,0 +1,8 @@
+.works {
+  display: flex;
+  gap: 2rem;
+  flex-direction: column;
+}
+.home {
+  display: flex;
+}
